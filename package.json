@@ -1,0 +1,25 @@
+{
+  "name": "tea-blossom-vault",
+  "version": "1.0.0",
+  "description": "Secure tea-related assets with Tea Blossom Vault, offering encryption and storage solutions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3rdh3rd3r/tea-blossom-vault"
+  },
+  "author": "n3rdh3rd3r",
+  "license": "MIT",
+  "dependencies": {
+    "tea-blossom-vault": "1.0.0",
+    "tea-blossom-extractor": "1.0.0",
+    "redux": "1.0.0",
+    "body-parser": "1.0.0",
+    "react-redux": "1.0.0",
+    "react": "1.0.0",
+    "commander": "1.0.0",
+    "bcrypt": "1.0.0"
+  }
+}
